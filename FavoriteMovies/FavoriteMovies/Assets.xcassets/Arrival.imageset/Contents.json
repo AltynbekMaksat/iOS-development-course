@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "3K1byNV0CfChvJFNbe2ZAkiro4U (фон удален).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
